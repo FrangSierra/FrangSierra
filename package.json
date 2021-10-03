@@ -1,0 +1,52 @@
+{
+  "name": "adriangl",
+  "version": "1.0.6",
+  "description": "GitHub profile of Adrián García",
+  "main": "index.js",
+  "scripts": {
+    "generate_readme": "node src/generate_readme.js",
+    "eslint": "npx eslint --fix src/**/*.js",
+    "prettier": "npx prettier --write src/**/*.js",
+    "pre-commit": "npx lint-staged",
+    "preversion": "echo 'No preversion script found'",
+    "version": "echo 'No version script found'",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriangl/adriangl.git"
+  },
+  "lint-staged": {
+    "*.js": [
+      "npx eslint --fix",
+      "npx prettier --write"
+    ]
+  },
+  "pre-commit": [
+    "pre-commit"
+  ],
+  "author": "Adrián García",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/adriangl/adriangl/issues"
+  },
+  "homepage": "https://github.com/adriangl/adriangl#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.0.6",
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "rss-parser": "^3.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "lint-staged": "^10.4.0",
+    "pre-commit": "^1.2.2",
+    "prettier": "2.1.2"
+  }
+}
