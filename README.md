@@ -1,11 +1,11 @@
-## Hi there 👋
+## Stay awhile and listen :notebook:
 [![Medium](https://img.shields.io/badge/%20-00ab6c?color=00ab6c&label=Francisco+Garc%C3%ADa+Sierra&logo=medium&logoColor=white&style=flat-square)](https://medium.com/@franciscodurdingarcia)
 [![LinkedIn](https://img.shields.io/badge/%20-0e76a8?color=0e76a8&label=frangsierra&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/frangsierra)
 [![Github contact](https://img.shields.io/badge/%20-f5f5f5?color=f5f5f5&label=Contact%20me%20on%20GitHub&logo=github&logoColor=white&style=flat-square)](https://github.com/frangsierra/frangsierra/issues/new)
 
 ------------
 
-Stay awhile and listen! My name is **Francisco Garcia**, also known as *Durdin*. I'm an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@masmovil](https://github.com/masmovil).
+My name is **Francisco Garcia**, also known as *Durdin*. I'm an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@masmovil](https://github.com/masmovil).
 
 I mainly focus on mobile development using Kotlin, Swift & Java, but I'm also used to work with C, C++, JS, TS or Dart.
 
@@ -41,7 +41,7 @@ I survived to an arrow to my knee shot by Clean architectures and now I'm a firs
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [Morsa - Jetpack Compose Testing Framework](https://github.com/hyperdevs-team&#x2F;morsa) | Android |  | October 3, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;morsa?style=flat-square)
+| [Morsa - Jetpack Compose Testing Framework](https://github.com/hyperdevs-team&#x2F;morsa) | Android | Kotlin | October 3, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;morsa?style=flat-square)
 | [Mini Kotlin](https://github.com/hyperdevs-team&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | October 1, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;mini-kotlin?style=flat-square)
 | [Mini Kotlin 2.0](https://github.com/minikorp&#x2F;mini) | Android | Kotlin | March 10, 2021 | ![](https://img.shields.io/github/stars/minikorp&#x2F;mini?style=flat-square) | ![](https://img.shields.io/github/issues-pr/minikorp&#x2F;mini?style=flat-square) | ![](https://img.shields.io/github/issues/minikorp&#x2F;mini?style=flat-square)
 
@@ -73,6 +73,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Sunday, October 3, 2021, 01:39 PM GMT+2_
+_Latest update: Sunday, October 3, 2021, 02:13 PM GMT+2_
 
 _Latest repo version: 1.0.6_
