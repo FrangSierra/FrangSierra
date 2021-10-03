@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![Medium](https://img.shields.io/badge/%20-00ab6c?color=00ab6c&label=Adri%C3%A1n%20Garc%C3%ADa&logo=medium&logoColor=white&style=flat-square)](https://medium.com/@franciscodurdingarcia)
-[![LinkedIn](https://img.shields.io/badge/%20-0e76a8?color=0e76a8&label=adriangarcialopez&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/frangsierra)
+[![Medium](https://img.shields.io/badge/%20-00ab6c?color=00ab6c&label=Francisco+Garc%C3%ADa+Sierra&logo=medium&logoColor=white&style=flat-square)](https://medium.com/@franciscodurdingarcia)
+[![LinkedIn](https://img.shields.io/badge/%20-0e76a8?color=0e76a8&label=frangsierra&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/frangsierra)
 [![Github contact](https://img.shields.io/badge/%20-f5f5f5?color=f5f5f5&label=Contact%20me%20on%20GitHub&logo=github&logoColor=white&style=flat-square)](https://github.com/frangsierra/frangsierra/issues/new)
 
 ------------
@@ -73,6 +73,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Sunday, October 3, 2021, 01:35 PM GMT+2_
+_Latest update: Sunday, October 3, 2021, 01:39 PM GMT+2_
 
 _Latest repo version: 1.0.6_
