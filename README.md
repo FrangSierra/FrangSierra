@@ -41,7 +41,7 @@ I survived to an arrow to my knee shot by Clean architectures and now I'm a firs
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [Morsa - Jetpack Compose Testing Framework](https://github.com/hyperdevs-team&#x2F;morsa) | Android | Kotlin | October 4, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;morsa?style=flat-square)
+| [Morsa - Jetpack Compose Testing Framework](https://github.com/hyperdevs-team&#x2F;morsa) | Android | Kotlin | October 5, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;morsa?style=flat-square)
 | [Mini Kotlin](https://github.com/hyperdevs-team&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | October 1, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;mini-kotlin?style=flat-square)
 | [Mini Kotlin 2.0](https://github.com/minikorp&#x2F;mini) | Android | Kotlin | March 10, 2021 | ![](https://img.shields.io/github/stars/minikorp&#x2F;mini?style=flat-square) | ![](https://img.shields.io/github/issues-pr/minikorp&#x2F;mini?style=flat-square) | ![](https://img.shields.io/github/issues/minikorp&#x2F;mini?style=flat-square)
 
@@ -73,6 +73,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Tuesday, October 5, 2021, 03:06 AM GMT+2_
+_Latest update: Wednesday, October 6, 2021, 03:07 AM GMT+2_
 
 _Latest repo version: 1.0.6_
