@@ -27,7 +27,6 @@ I survived to an arrow to my knee shot by Clean architectures and now I'm a firs
 ### Personal open source projects
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [Vulcanverse Quest Bot](https:&#x2F;&#x2F;github.com&#x2F;FrangSierra&#x2F;VVQuestBot) | Discord Bot | JavaScript | November 12, 2022 | ![](https://img.shields.io/github/stars/FrangSierra&#x2F;VVQuestBot?style=flat-square) | ![](https://img.shields.io/github/issues-pr/FrangSierra&#x2F;VVQuestBot?style=flat-square) | ![](https://img.shields.io/github/issues/FrangSierra&#x2F;VVQuestBot?style=flat-square)
 | [RxFirebase](https:&#x2F;&#x2F;github.com&#x2F;FrangSierra&#x2F;RxFirebase) | Android | Java | September 3, 2020 | ![](https://img.shields.io/github/stars/FrangSierra&#x2F;RxFirebase?style=flat-square) | ![](https://img.shields.io/github/issues-pr/FrangSierra&#x2F;RxFirebase?style=flat-square) | ![](https://img.shields.io/github/issues/FrangSierra&#x2F;RxFirebase?style=flat-square)
 | [Xcode Intellij Dark Theme](https:&#x2F;&#x2F;github.com&#x2F;FrangSierra&#x2F;Xcode-IntelliJ-Dark-Color-Theme) | macOS |  | July 3, 2020 | ![](https://img.shields.io/github/stars/FrangSierra&#x2F;Xcode-IntelliJ-Dark-Color-Theme?style=flat-square) | ![](https://img.shields.io/github/issues-pr/FrangSierra&#x2F;Xcode-IntelliJ-Dark-Color-Theme?style=flat-square) | ![](https://img.shields.io/github/issues/FrangSierra&#x2F;Xcode-IntelliJ-Dark-Color-Theme?style=flat-square)
 | [Xcode Intellij Keybinds](https:&#x2F;&#x2F;github.com&#x2F;FrangSierra&#x2F;Xcode-IntelliJ-Keybinds) | macOS |  | July 3, 2020 | ![](https://img.shields.io/github/stars/FrangSierra&#x2F;Xcode-IntelliJ-Keybinds?style=flat-square) | ![](https://img.shields.io/github/issues-pr/FrangSierra&#x2F;Xcode-IntelliJ-Keybinds?style=flat-square) | ![](https://img.shields.io/github/issues/FrangSierra&#x2F;Xcode-IntelliJ-Keybinds?style=flat-square)
@@ -74,6 +73,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Tuesday, December 13, 2022, 01:23 AM GMT+1_
+_Latest update: Tuesday, December 13, 2022, 01:06 PM GMT+1_
 
 _Latest repo version: 1.0.6_
