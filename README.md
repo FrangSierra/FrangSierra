@@ -5,7 +5,7 @@
 
 ------------
 
-My name is **Francisco Garcia**, also known as *Durdin*. I'm an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@zylon](https://www.zylon.ai/).
+My name is **Francisco Garcia**, also known as *Durdin*. I'm an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@masmovil](https://github.com/masmovil).
 
 I mainly focus on mobile development using Kotlin, Swift & Java, but I'm also used to work with C, C++, JS, TS or Dart.
 
@@ -73,6 +73,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Friday, February 16, 2024, 01:20 AM GMT+1_
+_Latest update: Friday, February 16, 2024, 12:31 PM GMT+1_
 
 _Latest repo version: 1.0.6_
