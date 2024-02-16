@@ -5,7 +5,7 @@
 
 ------------
 
-My name is **Francisco Garcia**, also known as *Durdin*. I'm an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@masmovil](https://github.com/masmovil).
+My name is **Francisco Garcia**, also known as *Durdin*. I'm an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@zylon](https://www.zylon.ai/).
 
 I mainly focus on mobile development using Kotlin, Swift & Java, but I'm also used to work with C, C++, JS, TS or Dart.
 
