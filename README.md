@@ -5,9 +5,9 @@
 
 ------------
 
-My name is **Francisco Garcia**, also known as *Durdin*. I'm an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@masmovil](https://github.com/masmovil).
+My name is **Francisco Garcia**, also known as *Durdin*. I'm an **FullStack developer** from **Madrid, Spain 🇪🇸** currently working at [@zylon-ai](https://github.com/zylon-ai).
 
-I mainly focus on mobile development using Kotlin, Swift & Java, but I'm also used to work with C, C++, JS, TS or Dart.
+I mainly focus on development using Kotlin, Javascript, Typescript, Swift & Java, but I'm also used to work with python, C, C++, or Dart.
 
 I'm a self-taught developer that has grown thanks to all the colleagues I have worked with along the years. Coding is my passion and one of my daily hobbies since I was a kid(thx epic dad!).
 I survived to an arrow to my knee shot by Clean architectures and now I'm a first line enjoyer of reactive architectures such as Redux & Flux. Be ready for it if you go deep in my repositories :space_invader:.
